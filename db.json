@@ -1,0 +1,21 @@
+{
+    "recomendados": [
+        {
+            "id": 1,
+            "nome" : "Canal Alura",
+            "tipo" : "Canais",
+            "avaliacao" : "Otima",
+            "comentario" : "Canal da Alura possui varios videos que podem te ajudar, a ser um melhor desenvolvedor",
+            "imagem" : "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/dibk1ba07iflqhldupuz"
+        },
+        {
+            "id": 2,
+            "nome" : "Canal Alura",
+            "tipo" : "Canais",
+            "avaliacao" : "Otima",
+            "comentario" : "Canal da Alura possui varios videos que podem te ajudar, a ser um melhor desenvolvedor",
+            "imagem" : "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/dibk1ba07iflqhldupuz"
+        }
+
+    ]
+}
